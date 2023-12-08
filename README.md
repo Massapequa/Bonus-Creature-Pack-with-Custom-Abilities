@@ -22,9 +22,9 @@ The creatures are organized by theme:<br>
 </details>
 
 <details>
-  <syummary>
+  <summary>
     Cursed
-  </syummary>
+  </summary>
   Cursed Bard<br>
   Cursed Knight<br>
   Cursed Marksman<br>
