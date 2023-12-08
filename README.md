@@ -18,7 +18,7 @@ The creatures are organized by theme:<br>
   Blighted Water Elemental<br>
   Blight Hound<br>
   Blightmare<br>
-  Funal Beast<br>
+  Fungal Beast<br>
 </details>
 
 <details>
